@@ -1,0 +1,44 @@
+{
+  "development": {
+    "username": "inventory_app_xfmb_user",
+    "password": "K63r9fSKmakwZbe6PWSBE6hTnEDq1h8P",
+    "database": "inventory_app_xfmb",
+    "host": "dpg-d46n8r6r433s738ahoa0-a.oregon-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "inventory_app_xfmb_user",
+    "password": "K63r9fSKmakwZbe6PWSBE6hTnEDq1h8P",
+    "database": "inventory_app_xfmb",
+    "host": "dpg-d46n8r6r433s738ahoa0-a.oregon-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "inventory_app_xfmb_user",
+    "password": "K63r9fSKmakwZbe6PWSBE6hTnEDq1h8P",
+    "database": "inventory_app_xfmb",
+    "host": "dpg-d46n8r6r433s738ahoa0-a.oregon-postgres.render.com",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
